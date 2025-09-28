@@ -1,12 +1,17 @@
 # Intro to Lamp Stacks Overview Guide
 
-**TODO:** A brief introductory guide to LAMP stacks for open source web apps.
+#### Table of Contents
+
+1. [What is a LAMP Stack?](#lamp)
+2. [Why These Four Technologies?](#four)
+3. [How Does a LAMP Stack Operate?](#operate)
+4. [Supplemental Resources](#supplemental)
 
 <hr />
 
-## 1. What is a LAMP Stack?
+## 1. <a name="lamp">What is a LAMP Stack?</a>
 
-LAMP stacks are integrated suites of technologies for gosting dynamic websites and web apps. In short, they are bundles of four core open-source software components:
+LAMP stacks are integrated suites of technologies for gosting dynamic websites and web apps. In short, they are bundles of four core open-source (freely available to all and potentially maintained by anyone and any community) software components:
 
 1) **Linux** (providing an Operating System, as a fountain).
 2) **Apache** (as a web server, handling incoming data requests and serving up web page data).
@@ -15,7 +20,7 @@ LAMP stacks are integrated suites of technologies for gosting dynamic websites a
 
 <hr />
 
-## 2. Why These Four Technologies?
+## 2. <a name="four">Why These Four Technologies?</a>
 
 To put in succinctly: because they interface together to get the job done. It's a logical pipeline, and it works a high level:
 
@@ -29,7 +34,7 @@ To put in succinctly: because they interface together to get the job done. It's 
 
 <hr />
 
-## 3. How Does a LAMP Stack Operate?
+## 3. <a name="operate">How Does a LAMP Stack Operate?</a>
 
 This can be summarized as five sequential steps:
 
@@ -38,3 +43,7 @@ This can be summarized as five sequential steps:
 3) The server-side scripting language runs its code (and might send a request to the *MySQL database* if it needs to retrieve data from it). 
 4) The server-side script puts the data and code together, to generate an *HTML page*. 
 5) The *Apache server* then sends the HTML page back to the *client (user's browser)* so that it can be displayed/used.
+
+<hr />
+
+## <a name="supplemental">4. Supplemental Resources</a>
