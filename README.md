@@ -1,4 +1,4 @@
-# Intro to Lamp Stacks Overview Guide
+# Intro to LAMP Stacks Overview Guide
 
 #### Table of Contents
 
@@ -47,3 +47,7 @@ This can be summarized as five sequential steps:
 <hr />
 
 ## <a name="supplemental">4. Supplemental Resources</a>
+
+* *[Apache HTTP Server Project Official Website](https://httpd.apache.org/)*
+* *[MySQL Official Website](https://www.mysql.com/)*
+* *[Intro to SQL Overview Guide](https://github.com/chaseofthejungle/intro-to-sql)*
