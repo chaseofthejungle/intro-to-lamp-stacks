@@ -5,7 +5,8 @@
 1. [What is a LAMP Stack?](#lamp)
 2. [Why These Four Technologies?](#four)
 3. [How Does a LAMP Stack Operate?](#operate)
-4. [Supplemental Resources](#supplemental)
+4. [A Note on MEAN and MERN Stack Development](#meanmern) 
+5. [Supplemental Resources](#supplemental)
 
 <hr />
 
@@ -46,7 +47,13 @@ This can be summarized as five sequential steps:
 
 <hr />
 
-## <a name="supplemental">4. Supplemental Resources</a>
+## <a name="meanmern">4. A Note on MEAN and MERN Stack Development</a>
+
+(TODO)
+
+<hr />
+
+## <a name="supplemental">5. Supplemental Resources</a>
 
 * *[Apache HTTP Server Project Official Website](https://httpd.apache.org/)*
 * *[MySQL Official Website](https://www.mysql.com/)*
