@@ -49,7 +49,7 @@ This can be summarized as five sequential steps:
 
 ## <a name="meanmern">4. A Note on MEAN and MERN Stack Development</a>
 
-(TODO)
+For information on two other popular stacks for developing web apps, check out the [Intro to MERN and MEAN Stack Development Overview Guide](https://github.com/chaseofthejungle/intro-to-mern-and-mean-stack).
 
 <hr />
 
