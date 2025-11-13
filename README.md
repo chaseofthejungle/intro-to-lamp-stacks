@@ -1,5 +1,7 @@
 # Intro to LAMP Stacks Overview Guide
 
+**Description/Overview:** Although various philosophies for developing and deploying dynamic web applications are in popular use today, LAMP stack development provides a zero-to-low cost full-stack solution (both the front-end user side and back-end server side) that can be readily and cohesively customized in both granular and holistic ways.
+
 #### Table of Contents
 
 1. [What is a LAMP Stack?](#lamp)
@@ -12,9 +14,9 @@
 
 ## 1. <a name="lamp">What is a LAMP Stack?</a>
 
-LAMP stacks are integrated suites of technologies for gosting dynamic websites and web apps. In short, they are bundles of four core open-source (freely available to all and potentially maintained by anyone and any community) software components:
+LAMP stacks are integrated suites of technologies for hosting dynamic websites and web apps. In short, they are bundles of four core open-source (freely available to all and potentially maintained by anyone and any community) software components:
 
-1) **Linux** (providing an Operating System, as a fountain).
+1) **Linux** (providing an Operating System, which serves as the stack foundation).
 2) **Apache** (as a web server, handling incoming data requests and serving up web page data).
 3) **MySQL** (for database purposes, storing and keeping web asset data organized)
 4) A **server-side scripting language** (such as Python, PHP, or Perl... all beginning with 'P', hence the 'P' in 'LAMP'... to process server-side code and generate the dynamic content that will be sent back to the client--that is to say, a user's web browser).
@@ -23,7 +25,7 @@ LAMP stacks are integrated suites of technologies for gosting dynamic websites a
 
 ## 2. <a name="four">Why These Four Technologies?</a>
 
-To put in succinctly: because they interface together to get the job done. It's a logical pipeline, and it works a high level:
+These four technologies integrate cohesively and holistically to get the job of full-stack web development done in a low-to-no cost manner. LAMP stack development provides a logical and highly efficient pipeline:
 
 * The *Linux* operating system provides provides a *base layer* for the integrated suite of 'LAMP' technologies. By being open-source, highly secure, customizable, and highly stable (although the extent of this is dependent upon distribution/distro), Linux is an excellent OS option for web server deployment.
 
@@ -37,7 +39,7 @@ To put in succinctly: because they interface together to get the job done. It's 
 
 ## 3. <a name="operate">How Does a LAMP Stack Operate?</a>
 
-This can be summarized as five sequential steps:
+The operations of LAMP stacks can be generalized as five sequential steps:
 
 1) A *user's web browser* sends out a data request for a web page that will be served by an *Apache web server*. 
 2) Should this request be for a dynamic page, Apache will then send this request to a *server-side scripting language's script* (the Python, PHP, or Perl code). 
