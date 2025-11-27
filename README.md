@@ -16,10 +16,10 @@
 
 LAMP stacks are integrated suites of technologies for hosting dynamic websites and web apps. In short, they are bundles of four core open-source (freely available to all and potentially maintained by anyone and any community) software components:
 
-1) **Linux** (providing an Operating System, which serves as the stack foundation).
-2) **Apache** (as a web server, handling incoming data requests and serving up web page data).
-3) **MySQL** (for database purposes, storing and keeping web asset data organized)
-4) A **server-side scripting language** (such as Python, PHP, or Perl... all beginning with 'P', hence the 'P' in 'LAMP'... to process server-side code and generate the dynamic content that will be sent back to the client--that is to say, a user's web browser).
+1) [**Linux**](https://www.linux.org/) (providing an Operating System, which serves as the stack foundation).
+2) [**Apache**](https://www.apache.org/) (as a web server, handling incoming data requests and serving up web page data).
+3) [**MySQL**](https://www.mysql.com/) (for database purposes, storing and keeping web asset data organized)
+4) A **server-side scripting language** (such as [Python](https://www.python.org/), [PHP](https://www.php.net/), or [Perl](https://www.perl.org/)... all beginning with 'P', hence the 'P' in 'LAMP'... to process server-side code and generate the dynamic content that will be sent back to the client--that is to say, a user's web browser).
 
 <hr />
 
